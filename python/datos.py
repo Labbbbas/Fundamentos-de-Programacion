@@ -1,0 +1,12 @@
+nombre = input("Como te llamas? ")
+edad = int(input("Cual es tu edad? "))
+estatura = float(input("Cuanto mides? "))
+carrera = input("Que carrera estudias? ")
+facultad = input("En que facultad estudias? ")
+
+print("Tus datos son: ")
+print("Tu nombre es: " + nombre)
+print("Tienes: " + str(edad) + " anios")
+print("Mides: " + str(estatura) + " metros")
+print("Estudias: " + carrera)
+print("En la facultad de: " + facultad)
