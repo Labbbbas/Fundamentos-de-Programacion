@@ -2,6 +2,7 @@
 # suma = 0
 # sumando = 1
 
+
 # while contador <= 99:
 #   suma += sumando
 #   print(suma)
