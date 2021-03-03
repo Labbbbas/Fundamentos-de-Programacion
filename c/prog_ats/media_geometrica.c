@@ -4,7 +4,7 @@
 int main()
 {
     int i;
-    float num,num_2,producto=1,indice,lim;
+    float num,producto=1,indice,lim;
 
     printf("Cuantos numeros desea ingresar? ");
     scanf("%f",&lim);
